@@ -7,11 +7,6 @@
     "fc:tags": ["voice", "audio", "messaging", "farcaster", "social", "communication"]
   },
   "navigation": {
-    "entrypoint": "https://freq-8i3w22wo4-thedude-da236722.vercel.app/frame"
-  },
-  "images": {
-    "hero": "https://freq-8i3w22wo4-thedude-da236722.vercel.app/heroImageUrl.png",
-    "splash": "https://freq-8i3w22wo4-thedude-da236722.vercel.app/splashImageUrl.png",
-    "screenshot": "https://freq-8i3w22wo4-thedude-da236722.vercel.app/screenshotUrl.png"
+    "entrypoint": "https://freq-8i3w22wo4-thedude-da236722.vercel.app"
   }
 }

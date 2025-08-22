@@ -1,0 +1,21 @@
+{
+  "frames": [
+    {
+      "id": "freq-voice-messaging",
+      "name": "Freq Voice Messaging",
+      "description": "Send and receive voice messages on Farcaster",
+      "image": "https://freq-8i3w22wo4-thedude-da236722.vercel.app/heroImageUrl.png",
+      "url": "https://freq-8i3w22wo4-thedude-da236722.vercel.app/frame",
+      "buttons": [
+        {
+          "label": "Send Voice Message",
+          "action": "post"
+        },
+        {
+          "label": "View Inbox",
+          "action": "post"
+        }
+      ]
+    }
+  ]
+}
