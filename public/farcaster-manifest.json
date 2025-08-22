@@ -2,16 +2,16 @@
   "app": {
     "name": "Freq",
     "description": "Voice messages on Farcaster. Send and receive voice messages with other Farcaster users.",
-    "icon": "https://freq-2tv3qyyh0-thedude-da236722.vercel.app/iconURL.png",
-    "domains": ["freq-2tv3qyyh0-thedude-da236722.vercel.app"],
+    "icon": "https://freq-8i3w22wo4-thedude-da236722.vercel.app/iconURL.png",
+    "domains": ["freq-8i3w22wo4-thedude-da236722.vercel.app"],
     "fc:tags": ["voice", "audio", "messaging", "farcaster", "social", "communication"]
   },
   "navigation": {
-    "entrypoint": "https://freq-2tv3qyyh0-thedude-da236722.vercel.app/frame"
+    "entrypoint": "https://freq-8i3w22wo4-thedude-da236722.vercel.app/frame"
   },
   "images": {
-    "hero": "https://freq-2tv3qyyh0-thedude-da236722.vercel.app/heroImageUrl.png",
-    "splash": "https://freq-2tv3qyyh0-thedude-da236722.vercel.app/splashImageUrl.png",
-    "screenshot": "https://freq-2tv3qyyh0-thedude-da236722.vercel.app/screenshotUrl.png"
+    "hero": "https://freq-8i3w22wo4-thedude-da236722.vercel.app/heroImageUrl.png",
+    "splash": "https://freq-8i3w22wo4-thedude-da236722.vercel.app/splashImageUrl.png",
+    "screenshot": "https://freq-8i3w22wo4-thedude-da236722.vercel.app/screenshotUrl.png"
   }
 }
