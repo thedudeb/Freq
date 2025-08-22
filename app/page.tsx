@@ -11,7 +11,7 @@ import FarcasterNotificationCenter from '../components/FarcasterNotificationCent
 export default function Home() {
   const [activeTab, setActiveTab] = useState<'inbox' | 'send'>('inbox')
   const [isAuthenticated, setIsAuthenticated] = useState(false)
-  const [user, setUser] = useState<any>(null)
+  const [user, setUser] = useState<{ fid: number | undefined; username: string; displayName?: string; avatar?: string } | null>(null)
   const [hasBetaAccess, setHasBetaAccess] = useState(false)
   const [isNotificationCenterOpen, setIsNotificationCenterOpen] = useState(false)
   const [unreadNotificationCount, setUnreadNotificationCount] = useState(0)

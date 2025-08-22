@@ -1,31 +1,17 @@
 {
-  "accountAssociation": {
-    "header": "eyJmaWQiOjEzODc0LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MzVCNTMyRTNkOTFhNDMzMjU0MzNjNDQ1QzU4ODFlOTQ0RmYxMjIyMSJ9",
-    "payload": "eyJkb21haW4iOiJmcmVxLXR2dDNxeXloMC10aGVkdWRlLWRhMjM2NzIyLnZlcmNlbC5hcHAifQ",
-    "signature": "MHg2YmNlNDRiYjI4OGI4MjkxNTkyZDYwYTI3ZjNjM2NkNzVkNDIzNDZiZDBlZGE5ZTk1NDUxNjJhMGY5M2Y5MzBiMDc5YzRlY2IzZTM2MGNkNTQ0NzIzNzhkY2JlNDk0MThkMGU4MTcyOTVlYjk2ZWRhZTdjYWViMDY1YzA5YzQ4ZjFj"
+  "app": {
+    "name": "Freq",
+    "description": "Voice messages on Farcaster. Send and receive voice messages with other Farcaster users.",
+    "icon": "https://freq-2tv3qyyh0-thedude-da236722.vercel.app/iconURL.png",
+    "domains": ["freq-2tv3qyyh0-thedude-da236722.vercel.app"],
+    "fc:tags": ["voice", "audio", "messaging", "farcaster", "social", "communication"]
   },
-  "frame": {
-    "version": "1",
-    "name": "Freq Voice Chat",
-    "iconUrl": "https://freq-2tv3qyyh0-thedude-da236722.vercel.app/icon-192.png",
-    "homeUrl": "https://freq-2tv3qyyh0-thedude-da236722.vercel.app",
-    "imageUrl": "https://freq-2tv3qyyh0-thedude-da236722.vercel.app/icon-512.png",
-    "buttonTitle": "Send Voice Message",
-    "splashImageUrl": "https://freq-2tv3qyyh0-thedude-da236722.vercel.app/icon-512.png",
-    "splashBackgroundColor": "#8b5cf6",
-    "webhookUrl": "https://freq-2tv3qyyh0-thedude-da236722.vercel.app/api/farcaster/webhook"
+  "navigation": {
+    "entrypoint": "https://freq-2tv3qyyh0-thedude-da236722.vercel.app"
   },
-  "appMetadata": {
-    "version": "1.0.0",
-    "app": {
-      "name": "Freq",
-      "description": "Voice messages on Farcaster. Send and receive voice messages with other Farcaster users.",
-      "icon": "/icon-192.png",
-      "domains": ["freq-2tv3qyyh0-thedude-da236722.vercel.app"],
-      "fc:tags": ["voice", "audio", "messaging", "farcaster", "social", "communication"]
-    },
-    "navigation": {
-      "entrypoint": "/"
-    }
+  "images": {
+    "hero": "https://freq-2tv3qyyh0-thedude-da236722.vercel.app/heroImageUrl.png",
+    "splash": "https://freq-2tv3qyyh0-thedude-da236722.vercel.app/splashImageUrl.png",
+    "screenshot": "https://freq-2tv3qyyh0-thedude-da236722.vercel.app/screenshotUrl.png"
   }
 }

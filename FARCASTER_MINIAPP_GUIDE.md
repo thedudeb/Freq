@@ -198,3 +198,7 @@ Your Freq app is now **fully configured** as a Farcaster mini-app with:
 
 
 
+
+
+
+

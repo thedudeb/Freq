@@ -11,7 +11,7 @@ import {
 import { farcasterConfig } from '../lib/farcaster'
 
 interface FarcasterAuthProps {
-  onAuthenticated: (user: any) => void
+  onAuthenticated: (user: { fid: number | undefined; username: string; displayName?: string; avatar?: string }) => void
 }
 
 function FarcasterAuthInner({ onAuthenticated }: FarcasterAuthProps) {
